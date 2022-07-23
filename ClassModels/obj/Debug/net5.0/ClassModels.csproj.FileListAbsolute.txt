@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\LOHI\ClassModels\bin\Debug\net5.0\ClassModels.deps.json
+C:\Users\DELL\source\repos\LOHI\ClassModels\bin\Debug\net5.0\ClassModels.dll
+C:\Users\DELL\source\repos\LOHI\ClassModels\bin\Debug\net5.0\ref\ClassModels.dll
+C:\Users\DELL\source\repos\LOHI\ClassModels\bin\Debug\net5.0\ClassModels.pdb
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.dll
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ref\ClassModels.dll
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.pdb
+C:\Users\DELL\source\repos\LOHI\ClassModels\obj\Debug\net5.0\ClassModels.csproj.AssemblyReference.cache

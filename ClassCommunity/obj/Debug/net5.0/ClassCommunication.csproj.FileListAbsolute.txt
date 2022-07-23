@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\bin\Debug\net5.0\ClassCommunication.deps.json
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\bin\Debug\net5.0\ClassCommunication.dll
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\bin\Debug\net5.0\ref\ClassCommunication.dll
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\bin\Debug\net5.0\ClassCommunication.pdb
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.dll
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ref\ClassCommunication.dll
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.pdb
+C:\Users\DELL\source\repos\LOHI\ClassCommunity\obj\Debug\net5.0\ClassCommunication.csproj.AssemblyReference.cache

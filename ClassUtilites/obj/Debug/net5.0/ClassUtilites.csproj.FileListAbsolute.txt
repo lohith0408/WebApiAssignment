@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassUtilites.deps.json
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassUtilites.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ref\ClassUtilites.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassUtilites.pdb
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassModels.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassRepository.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassModels.pdb
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\bin\Debug\net5.0\ClassRepository.pdb
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.csproj.CopyComplete
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ref\ClassUtilites.dll
+C:\Users\DELL\source\repos\LOHI\ClassUtilites\obj\Debug\net5.0\ClassUtilites.pdb
